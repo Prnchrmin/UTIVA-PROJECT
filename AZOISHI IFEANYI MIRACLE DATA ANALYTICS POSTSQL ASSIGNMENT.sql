@@ -1,5 +1,13 @@
 AZOISHI IFEANYI MIRACLE DATA ANALYTICS POSTGRESQL ASSIGNMENT 2
-
+/* DAMILARE'S COMMENT:
+	    What you have done wuld show each team and their corresponing total games played
+	    ayou then tried to use the MAX fctn to get the team with the highest game played 
+	    but this would only return the highest game played per team.
+	    
+	    we would be correcting this in class.
+	    
+	    Great technique trying to sort by games played in DESC order
+*/
 
 --  Q1. How many countries have played in the world cup(5 Years)?
 
